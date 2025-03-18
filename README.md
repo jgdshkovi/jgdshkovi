@@ -28,8 +28,9 @@ Here are some ideas to get you started:
   <!-- - ✍️ Check out my blog: [x_plained on Medium](https://medium.com/@akarshijain) -->
   <!-- - 🎥 All my links: [Linktree](https://linktr.ee/akarshijain) -->
 - 🌈 Pronouns: He/Him
-### Profile Visits 👀
-<p align="left"> <img src="https://profile-counter.glitch.me/jagakovi/count.svg" /></p> 
+
+<!-- ### Profile Visits 👀
+<p align="left"> <img src="https://profile-counter.glitch.me/jagakovi/count.svg" /></p> -->
 
 
 ### Languages and Tools:
@@ -71,6 +72,8 @@ Here are some ideas to get you started:
 
 
 ![Total Commits](https://img.shields.io/badge/Total_Commits-696-brightgreen)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jgdshkovi&label=Profile%20views&color=0e75b6&style=flat" alt="jgdshkovi" /> </p>
+
 
 <picture>
   <source
@@ -88,12 +91,11 @@ Here are some ideas to get you started:
 </picture>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jgdshkovi&label=Profile%20views&color=0e75b6&style=flat" alt="jgdshkovi" /> </p>
+<!--
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgdshkovi&show_icons=true&locale=en&layout=compact" alt="jgdshkovi" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgdshkovi&show_icons=true&locale=en&layout=compact" alt="jgdshkovi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgdshkovi&show_icons=true&locale=en" alt="jgdshkovi" /></p>
-
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgdshkovi&show_icons=true&locale=en" alt="jgdshkovi" /></p>
+-->
 
 
 <!-- <picture>
