@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ### 📈 GitHub Insights:
 
 
-![Total Commits](https://img.shields.io/badge/Total_Commits-696-brightgreen)
+![Total Commits](https://img.shields.io/badge/Total_Commits-211-brightgreen)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgdshkovi&label=Profile%20views&color=0e75b6&style=flat" alt="jgdshkovi" /> </p>
 
 
