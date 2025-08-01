@@ -126,5 +126,5 @@ Here are some ideas to get you started:
 
 ### 🌍 Let's Connect:
 
-[![LinkedIn](https://img.shields.io/badge/Jagadeesh%20Kovi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgdshkovi/)
+[![LinkedIn](https://img.shields.io/badge/Jagadeesh%20Kovi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgdshkovi/) <br>
 [![GitHub](https://img.shields.io/badge/Jagadeesh%20Kovi-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jgdshkovi)
