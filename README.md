@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 🚀 Skilled in Software Engineering, Data Science/Engineering, and AI, passionate about leveraging Machine Learning to solve real-world problems.
 - 💼 Experienced Data Scientist at Project 990 (Indiana University), Data Analyst at Kelley School of Business, Software Engineer at FIS Global, driving significant technological advancements and optimizations.
 - 🌱 Deep academic involvement with coursework in Statistics, Applied Machine Learning, Computer Vision, Large Language Models and more, equipping me with a robust foundation in Data Science.
-- 📫 How to reach me: [jgdshkovi@gmail.com](mailto:jgdshkovi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jgdshkovi/)
-- 🌐 Visit my website: [jagakovi.lovable.app](https://jagakovi.lovable.app/) 
+  <!-- - 📫 How to reach me: [jgdshkovi@gmail.com](mailto:jgdshkovi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jgdshkovi/) -->
+  <!-- - 🌐 Visit my website: [jagakovi.lovable.app](https://jagakovi.lovable.app/) -->
   <!-- - ✍️ Check out my blog: [x_plained on Medium](https://medium.com/@akarshijain) -->
   <!-- - 🎥 All my links: [Linktree](https://linktr.ee/akarshijain) -->
 - 🌈 Pronouns: He/Him
