@@ -33,6 +33,14 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://profile-counter.glitch.me/jagakovi/count.svg" /></p> -->
 
 
+### 🌍 Let's Connect:
+
+<!-- [![LinkedIn](https://img.shields.io/badge/Jagadeesh%20Kovi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgdshkovi/) <br> -->
+<!-- [![GitHub](https://img.shields.io/badge/Jagadeesh%20Kovi-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jgdshkovi) -->
+
+LinkedIn: https://www.linkedin.com/in/jgdshkovi/
+Portfolio: https://jagakovi.lovable.app/
+
 ### Languages and Tools:
 
 <p align="left"><b>Programming Languages</b><br>
@@ -124,7 +132,4 @@ Here are some ideas to get you started:
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saisathwikreddy&show_icons=true&locale=en" alt="saisathwikreddy" /></p> -->
 
-### 🌍 Let's Connect:
 
-[![LinkedIn](https://img.shields.io/badge/Jagadeesh%20Kovi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgdshkovi/) <br>
-[![GitHub](https://img.shields.io/badge/Jagadeesh%20Kovi-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jgdshkovi)
