@@ -31,9 +31,13 @@ Here are some ideas to get you started:
   - 🎓 Master’s student in Data Science at Indiana University Bloomington, specializing in Data Engineering, Natural Language Processing, and AI/ML systems.
   - 🚀 Bridging the gap between Software Engineering and Data Science, with a passion for solving real-world problems through intelligent automation and machine learning.
   - 💼 Hands-on experience across academia and industry:
+
       • Data Scientist – Project 990 (IU)
-      • Data Analyst – Kelley School of Business
-      • Software Engineer – FIS Global
+
+      • Data Analyst – Kelley School of Business
+
+      • Software Engineer – FIS Global
+  
   - 🌱 Strong academic foundation with coursework in Statistics, Machine Learning, Computer Vision, LLMs, and more.
 <!-- ### Profile Visits 👀
 <p align="left"> <img src="https://profile-counter.glitch.me/jagakovi/count.svg" /></p> -->
