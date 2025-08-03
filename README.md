@@ -19,16 +19,22 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github.com/akarshijain/akarshijain/blob/main/bitmoji.png" align="right" alt="Bitmoji Image" width="130" height="200" style="border-radius: 10%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> -->
 
-- 🎓 Pursuing a Master's in Data Science at Indiana University Bloomington, with a focus on Data Engineering, NLP and AI.
-- 🚀 Skilled in Software Engineering, Data Science/Engineering, and AI, passionate about leveraging Machine Learning to solve real-world problems.
-- 💼 Experienced Data Scientist at Project 990 (Indiana University), Data Analyst at Kelley School of Business, Software Engineer at FIS Global, driving significant technological advancements and optimizations.
-- 🌱 Deep academic involvement with coursework in Statistics, Applied Machine Learning, Computer Vision, Large Language Models and more, equipping me with a robust foundation in Data Science.
+  <!-- - 🎓 Pursuing a Master's in Data Science at Indiana University Bloomington, with a focus on Data Engineering, NLP and AI. -->
+  <!-- - 🚀 Skilled in Software Engineering, Data Science/Engineering, and AI, passionate about leveraging Machine Learning to solve real-world problems. -->
+  <!-- - 💼 Experienced Data Scientist at Project 990 (Indiana University), Data Analyst at Kelley School of Business, Software Engineer at FIS Global, driving significant technological advancements and optimizations. -->
+  <!-- - 🌱 Deep academic involvement with coursework in Statistics, Applied Machine Learning, Computer Vision, Large Language Models and more, equipping me with a robust foundation in Data Science. -->
   <!-- - 📫 How to reach me: [jgdshkovi@gmail.com](mailto:jgdshkovi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jgdshkovi/) -->
   <!-- - 🌐 Visit my website: [jagakovi.lovable.app](https://jagakovi.lovable.app/) -->
   <!-- - ✍️ Check out my blog: [x_plained on Medium](https://medium.com/@akarshijain) -->
   <!-- - 🎥 All my links: [Linktree](https://linktr.ee/akarshijain) -->
-- 🌈 Pronouns: He/Him
-
+  <!-- - 🌈 Pronouns: He/Him -->
+  - 🎓 Master’s student in Data Science at Indiana University Bloomington, specializing in Data Engineering, Natural Language Processing, and AI/ML systems.
+  - 🚀 Bridging the gap between Software Engineering and Data Science, with a passion for solving real-world problems through intelligent automation and machine learning.
+  - 💼 Hands-on experience across academia and industry:
+      • Data Scientist – Project 990 (IU)
+      • Data Analyst – Kelley School of Business
+      • Software Engineer – FIS Global
+  - 🌱 Strong academic foundation with coursework in Statistics, Machine Learning, Computer Vision, LLMs, and more.
 <!-- ### Profile Visits 👀
 <p align="left"> <img src="https://profile-counter.glitch.me/jagakovi/count.svg" /></p> -->
 
